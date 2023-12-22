@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MuratKosheterov/mobx-ecommerse-with-tailwind/static/css/main.97b97b0e.css",
+    "main.js": "/MuratKosheterov/mobx-ecommerse-with-tailwind/static/js/main.2863e7c1.js",
+    "index.html": "/MuratKosheterov/mobx-ecommerse-with-tailwind/index.html",
+    "main.97b97b0e.css.map": "/MuratKosheterov/mobx-ecommerse-with-tailwind/static/css/main.97b97b0e.css.map",
+    "main.2863e7c1.js.map": "/MuratKosheterov/mobx-ecommerse-with-tailwind/static/js/main.2863e7c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97b97b0e.css",
+    "static/js/main.2863e7c1.js"
+  ]
+}
